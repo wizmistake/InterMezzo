@@ -1,5 +1,5 @@
-# ComputationalIntelligence_Project01
-First Project of computational intelligence class
+# InterMezzo
+Computational Intelligence Class_First Project
 
 | Employee       | Operating System | IDE     | Python Package | Virtual Environment | Browser | CPU                   | RAM   | GPU                          |
 | -------------- | ---------------- | ------- | -------------- | ------------------- | ------- | --------------------- | ----- | ---------------------------- |
